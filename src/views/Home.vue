@@ -40,16 +40,16 @@
         </div>
         <div class="statistics">
           <p class="info">
-            <spam class="number">42</spam><br>
-            <spam class="text">Colaboradores</spam>
+            <span name="n1" class="number">42</span><br>
+            <span name="t1" class="text">Colaboradores</span>
           </p>
           <p class="info">
-            <spam class="number">20</spam><br>
-            <spam class="text">Aplicações Desenvolvidas</spam>
+            <span name="n2" class="number">20</span><br>
+            <span name="t2" class="text">Aplicações Desenvolvidas</span>
           </p>
           <p class="info">
-            <spam class="number">7</spam><br>
-            <spam class="text">Clientes Satisfeitos</spam>
+            <span name="n3" class="number">7</span><br>
+            <span name="t3" class="text">Clientes Satisfeitos</span>
           </p>
         </div>
       </div>
